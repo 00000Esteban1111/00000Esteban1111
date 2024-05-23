@@ -1,16 +1,13 @@
-## Hi there 👋
+## ESteban
 
-<!--
-**00000Esteban1111/00000Esteban1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Bienvenidos
 
-Here are some ideas to get you started:
+- Python
+- react
+-  DS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Dias
+1.Domingo
+2.Lunes
+3.Martes
+4.Miercoles
